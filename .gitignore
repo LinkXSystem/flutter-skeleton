@@ -1,0 +1,7 @@
+# ignore the example of folder
+
+UI
+
+# ignore the system's file
+
+.DS_Store
