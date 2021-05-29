@@ -1,0 +1,6 @@
+[submodule "modules/flutter"]
+	path = modules/flutter
+	url = https://github.com/LinkXSystem/flutter.git
+[submodule "modules/engine"]
+	path = modules/engine
+	url = https://github.com/LinkXSystem/engine.git
